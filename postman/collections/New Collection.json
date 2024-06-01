@@ -15,6 +15,12 @@
 			"request": {
 				"method": "GET",
 				"header": [],
+				"url": {
+					"raw": "fgdhg",
+					"host": [
+						"fgdhg"
+					]
+				},
 				"description": "prueba"
 			},
 			"response": []
@@ -26,8 +32,14 @@
 				"disableBodyPruning": true
 			},
 			"request": {
-				"method": "GET",
+				"method": "POST",
 				"header": [],
+				"url": {
+					"raw": "sdfe",
+					"host": [
+						"sdfe"
+					]
+				},
 				"description": "adsf pdsapifa"
 			},
 			"response": []
