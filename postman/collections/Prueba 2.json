@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "78597098-ee77-4525-8a53-f4f94bdd81f0",
-		"name": "New Collection",
+		"name": "Prueba 2",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_uid": "26920798-78597098-ee77-4525-8a53-f4f94bdd81f0"
 	},
@@ -13,7 +13,7 @@
 				"disableBodyPruning": true
 			},
 			"request": {
-				"method": "POST",
+				"method": "PUT",
 				"header": [],
 				"url": {
 					"raw": "kgl",
@@ -21,6 +21,25 @@
 						"kgl"
 					]
 				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "70532542-f37b-4e88-8509-b24747cb9a17",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "weer",
+					"host": [
+						"weer"
+					]
+				},
+				"description": "rtetet"
 			},
 			"response": []
 		}
