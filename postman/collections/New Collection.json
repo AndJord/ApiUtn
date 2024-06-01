@@ -18,6 +18,19 @@
 				"description": "prueba"
 			},
 			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "fecca5d3-2bd4-48b5-ad27-a46cfb9bf5b9",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"description": "adsf pdsapifa"
+			},
+			"response": []
 		}
 	]
 }
